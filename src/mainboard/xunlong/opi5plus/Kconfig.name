@@ -1,0 +1,2 @@
+config BOARD_XUNLONG_ORANGEPI5PLUS
+	bool "OrangePi5Plus"
